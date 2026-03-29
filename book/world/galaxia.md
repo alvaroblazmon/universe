@@ -61,8 +61,12 @@ No se ahondará más en este punto de momento.
 
 ## Escala temporal
 
-*(Por definir)*
+El Velo es un universo narrativo de escala épica. No es un libro — es el telón de fondo sobre el que se cuentan muchas historias pequeñas en distintas épocas.
 
-- ¿Cuántos años llevan Los Fines en el espacio? — estimado: 200-500 años
-- ¿Cuándo intentó el Dominio conquistar el brazo exterior?
-- ¿Cuándo se fragmentaron los Sofari internamente?
+| Hito | Escala |
+|------|--------|
+| Los Fines llevan en el espacio | ~1.000 años |
+| Historia total del universo narrativo | Miles de siglos — escala cósmica |
+| Cada historia individual | Una vida, una era, un conflicto concreto |
+
+La historia del protagonista civil es solo una de esas historias — situada en los primeros siglos de expansión humana, cuando Los Fines son todavía jóvenes y el Velo empieza a notar su presencia.
