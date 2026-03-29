@@ -54,12 +54,11 @@ El brazo exterior es donde los humanos se están expandiendo. No es territorio v
 
 ## Las civilizaciones extintas
 
-*(Por desarrollar)*
+Ruinas dispersas por distintos brazos del Velo. Tecnología que ninguna civilización actual comprende del todo.
 
-- Ruinas dispersas por distintos brazos del Velo
-- Tecnología que ninguna civilización actual comprende del todo
-- ¿Alguien las estudia activamente? ¿El Dominio? ¿Los Sofari?
-- ¿Qué les ocurrió?
+El Dominio sabe algo sobre ellas — no comparte esa información. El resto de la galaxia solo ve ruinas sin entender qué fueron ni qué les ocurrió.
+
+No se ahondará más en este punto de momento.
 
 ---
 
