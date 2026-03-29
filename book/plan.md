@@ -1,42 +1,43 @@
-# Plan: Libro "La Conquista de la Galaxia"
+# Plan: El Velo — Universo Narrativo
 
-## Contexto
+## Concepto
 
-El usuario quiere escribir un libro de ciencia ficción épica (Space Opera) usando ficheros markdown dentro del repositorio `universe/book/`. La carpeta ya existe. El objetivo de este plan es definir tanto el concepto inicial del libro como la metodología de trabajo para desarrollarlo de forma iterativa.
+**El Velo** es un universo narrativo de ciencia ficción épica (Space Opera). No es un libro — es el telón de fondo sobre el que se cuentan muchas historias individuales en distintas épocas, con distintos protagonistas y conflictos.
+
+Referentes de escala: *Foundation* de Asimov, *Dune* de Herbert, el universo Marvel/DC.
 
 ---
 
-## Concepto del libro
+## El universo
 
 | Elemento | Decisión |
 |---|---|
 | Género | Ciencia ficción épica / Space Opera |
-| Narrador | Un civil ordinario, sin agenda política, arrastrado por los eventos |
-| Galaxia al inicio | Fragmentada: decenas de civilizaciones pequeñas e independientes |
-| El conquistador | Una coalición de varias razas que impone su orden |
-| Final | Abierto — se decidirá al desarrollar personajes y trama |
+| Escala temporal | Miles de siglos — escala cósmica |
+| Galaxia | El Velo — fragmentada, asimétrica, con civilizaciones de distintas eras |
+| Tono | Épico, humano, con perspectiva de civil ordinario |
 
-**Idea central:** Un individuo anónimo, sin poder ni relevancia política, queda atrapado en medio de la conquista cuando la coalición llega a su mundo. Su historia personal se convierte en el hilo que conecta los grandes eventos épicos de la galaxia.
+Las civilizaciones, facciones, reglas del universo y geografía galáctica están documentadas en `book/world/`.
 
 ---
 
 ## Metodología de trabajo
 
-### Fase 1 — Biblia del mundo (worldbuilding)
-Antes de escribir ningún capítulo, construir los documentos de referencia:
-- Lore del universo y su historia
-- Facciones y civilizaciones
-- Personajes principales
-- Tecnología y reglas del mundo
+### Nivel 1 — Worldbuilding (universo)
+Documentos de referencia que aplican a todas las historias:
+- Civilizaciones y facciones
+- Geografía galáctica
+- Reglas físicas y tecnológicas
+- Historia galáctica
 
-### Fase 2 — Estructura narrativa
-Con la biblia como base, definir:
-- Actos y arcos narrativos
-- Puntos de giro principales
-- Arco del protagonista
+### Nivel 2 — Historia individual
+Cada historia tiene su propia biblia y estructura narrativa:
+- Personajes principales y secundarios
+- Arcos narrativos y puntos de giro
+- Contexto temporal dentro del universo
 
-### Fase 3 — Escritura por capítulos
-Un fichero por capítulo: `chapter-01.md`, `chapter-02.md`, etc.
+### Nivel 3 — Escritura por capítulos
+Un fichero por capítulo dentro de la carpeta de cada historia.
 
 ---
 
@@ -44,30 +45,36 @@ Un fichero por capítulo: `chapter-01.md`, `chapter-02.md`, etc.
 
 ```
 book/
-├── bible/
-│   ├── world.md          # Historia galáctica, contexto, tecnología
-│   ├── factions.md       # La coalición conquistadora + civilizaciones de la galaxia
-│   ├── characters.md     # Protagonista, antagonistas, secundarios
-│   └── rules.md          # Física, viaje espacial, reglas del universo
-├── outline/
-│   └── structure.md      # Actos, arcos, puntos de giro
-└── chapters/
-    └── chapter-01.md     # (cuando llegue el momento)
+├── world/                    # Worldbuilding del universo (aplica a todas las historias)
+│   ├── galaxia.md            # El Velo, geografía, escala temporal
+│   ├── el-dominio.md         # La gran potencia conquistadora
+│   ├── los-sofari.md         # Civilización filosófica fragmentada
+│   ├── los-fines.md          # Los humanos — facciones sin gobierno único
+│   ├── los-tyr.md            # Humanos comerciantes y tecnológicos
+│   └── los-pyrron.md         # Civilización antigua del brazo exterior
+├── stories/                  # Una carpeta por historia
+│   └── historia-01/          # Primera historia (el protagonista civil)
+│       ├── characters.md     # Personajes de esta historia
+│       ├── structure.md      # Actos, arcos, puntos de giro
+│       └── chapters/
+│           └── chapter-01.md
+└── rules.md                  # Física, viaje espacial, reglas del universo
 ```
 
 ---
 
-## Primeros pasos (tras aprobar el plan)
+## Estado actual
 
-1. Crear la estructura de carpetas en `book/`
-2. Empezar con `bible/world.md` — historia galáctica y contexto de la conquista
-3. Continuar con `bible/factions.md` — quiénes son los conquistadores (la coalición) y los mundos que conquistan
-4. Luego `bible/characters.md` — construir al protagonista civil desde cero
+- [x] Worldbuilding base completado (`book/world/`)
+- [ ] Reglas del universo (`rules.md`)
+- [ ] Primera historia: personajes
+- [ ] Primera historia: estructura narrativa
+- [ ] Primera historia: escritura de capítulos
 
 ---
 
-## Cómo verificar el avance
+## Primera historia
 
-- Revisar los ficheros markdown generados en `book/bible/`
-- Cada sesión debería terminar con al menos un fichero de la biblia más completo
-- El paso a `outline/structure.md` solo cuando la biblia tenga suficiente base
+Un civil ordinario, desterrado desde pequeño junto a su primo en una colonia de frontera de Los Fines. Destacan en escaramuzas locales. Su historia personal se convierte en el hilo que conecta los grandes eventos del brazo exterior.
+
+Situada en los primeros siglos de expansión humana — cuando Los Fines son jóvenes y el Velo empieza a notar su presencia.
