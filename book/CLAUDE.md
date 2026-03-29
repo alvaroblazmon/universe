@@ -1,12 +1,12 @@
-# CLAUDE.md — Guía de trabajo para el libro
+# CLAUDE.md — Guía de trabajo para El Velo
 
-Este fichero describe cómo trabajar con Claude en el desarrollo de este libro.
+Este fichero describe cómo trabajar en el desarrollo del universo narrativo **El Velo**.
 
 ---
 
 ## Sobre el proyecto
 
-Estamos escribiendo un libro de **ciencia ficción épica (Space Opera)** titulado provisionalmente **"La Conquista de la Galaxia"**.
+**El Velo** es un universo narrativo de **ciencia ficción épica (Space Opera)**. No es un libro único — es el telón de fondo sobre el que se cuentan muchas historias individuales en distintas épocas y con distintos protagonistas.
 
 El plan completo está en [`plan.md`](./plan.md).
 
@@ -16,49 +16,53 @@ El plan completo está en [`plan.md`](./plan.md).
 
 ```
 book/
-├── bible/          # Documentos de referencia (worldbuilding, personajes, reglas)
-├── outline/        # Estructura narrativa y arcos
-└── chapters/       # Un fichero .md por capítulo
+├── world/          # Worldbuilding del universo (aplica a todas las historias)
+├── stories/        # Una carpeta por historia individual
+│   └── historia-01/
+│       ├── characters.md
+│       ├── structure.md
+│       └── chapters/
+└── rules.md        # Física, viaje espacial, reglas del universo
 ```
-
-**Regla principal:** No escribir capítulos hasta que la biblia tenga suficiente base.
 
 ---
 
 ## Flujo de trabajo
 
-1. **Biblia primero** — Antes de cada sesión de escritura, revisar y completar los ficheros de `bible/`
-2. **Preguntas abiertas** — Cada fichero de la biblia tiene una sección `Notas pendientes` con preguntas sin resolver. Priorizarlas.
-3. **Consistencia** — Cualquier decisión nueva (nombre de raza, tecnología, evento histórico) debe reflejarse en el fichero de biblia correspondiente.
+1. **Worldbuilding primero** — Antes de desarrollar cualquier historia, el universo base debe estar sólido. Los ficheros de `world/` son la referencia.
+2. **Consistencia** — Cualquier decisión nueva (nombre, tecnología, evento) debe reflejarse en el fichero de `world/` correspondiente.
+3. **Historias independientes** — Cada historia en su propia carpeta dentro de `stories/`, con sus propios personajes y estructura narrativa.
 4. **Un capítulo a la vez** — Al escribir, trabajar solo en el capítulo actual hasta cerrarlo.
 
 ---
 
 ## Convenciones de ficheros
 
-- Biblia: `bible/world.md`, `bible/factions.md`, `bible/characters.md`, `bible/rules.md`
-- Estructura: `outline/structure.md`
-- Capítulos: `chapters/chapter-01.md`, `chapters/chapter-02.md`, etc.
+- Worldbuilding: `world/*.md`
+- Reglas del universo: `rules.md`
+- Personajes por historia: `stories/historia-XX/characters.md`
+- Estructura por historia: `stories/historia-XX/structure.md`
+- Capítulos: `stories/historia-XX/chapters/chapter-01.md`, etc.
 - Todos los ficheros en español.
 
 ---
 
 ## Estado actual
 
-- [x] Estructura de carpetas creada
-- [x] Borradores iniciales de la biblia
-- [ ] Biblia completada (worldbuilding detallado)
-- [ ] Estructura narrativa definida
-- [ ] Primer capítulo escrito
+- [x] Worldbuilding base completado (`book/world/`)
+- [ ] Reglas del universo (`rules.md`)
+- [ ] Primera historia: personajes
+- [ ] Primera historia: estructura narrativa
+- [ ] Primera historia: capítulos
 
 ---
 
-## Contexto clave del libro
+## Civilizaciones del Velo
 
-| Elemento | Decisión |
-|---|---|
-| Género | Ciencia ficción épica / Space Opera |
-| Protagonista | Civil ordinario, sin poder ni agenda política |
-| Galaxia | Fragmentada: docenas de civilizaciones independientes |
-| Antagonista | Una coalición de varias razas conquistadoras |
-| Final | Abierto — por decidir |
+| Nombre | Tipo | Símil histórico |
+|--------|------|-----------------|
+| **El Dominio** | Gran potencia conquistadora | Persia |
+| **Los Sofari** | Civilización filosófica fragmentada | Grecia post-Peloponeso |
+| **Los Fines** | Humanos — facciones sin gobierno único | Roma temprana |
+| **Los Tyr** | Humanos — red comercial y tecnológica | Cartago |
+| **Los Pyrron** | Civilización antigua del brazo exterior | Épiro de Pirro |
