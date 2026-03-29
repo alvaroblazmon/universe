@@ -22,12 +22,9 @@ El Velo no es uniforme. Hay civilizaciones de distintas eras coexistiendo:
 
 ## Por qué la galaxia nunca se unificó
 
-*(Por desarrollar)*
+La fragmentación es el estado natural del Velo. Las distancias interestelares hacen inviable gobernar más allá de cierto radio — no hay ambición que supere esa limitación física. Nunca hubo un intento serio de unificación. Cada civilización ha vivido mirando hacia dentro.
 
-- Las distancias interestelares hacen que gobernar más allá de cierto radio sea logísticamente inviable
-- Intentos históricos fallidos que dejaron cicatriz
-- El Dominio intentó expandirse hacia el brazo exterior pero fue frenado por los Sofari en varias ocasiones
-- Ese brazo quedó fuera del control del Dominio — zona fragmentada e independiente con historia de resistencia
+El Dominio es el actor más cercano a un poder unificador, pero incluso él tiene sus límites logísticos. Intentó expandirse hacia el brazo exterior y fue frenado por los Sofari. No mereció la pena el esfuerzo.
 
 ---
 
