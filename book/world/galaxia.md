@@ -33,12 +33,22 @@ El Velo no es uniforme. Hay civilizaciones de distintas eras coexistiendo:
 
 ## Geografía galáctica
 
-*(Por desarrollar)*
+La distribución es asimétrica — no hay un mapa limpio. Hay civilizaciones de distintos tamaños repartidas por el Velo.
 
-- Los brazos del Velo y qué civilización habita cada zona
-- El brazo exterior — donde viven Los Fines (los humanos)
-- La zona central o interior — territorio del Dominio
-- La zona intermedia — donde residen (fragmentados) los Sofari
+| Zona | Civilizaciones |
+|------|---------------|
+| **Núcleo y brazos centrales** | El Dominio — enorme, con límites logísticos claros |
+| **Zona intermedia** | Los Sofari, fragmentados — tampón natural entre el Dominio y el exterior |
+| **Brazo exterior** | Los Fines, Los Pyrron, Los Tyr y civilizaciones pequeñas — caótico, diverso, sin poder dominante |
+| **Rutas entre zonas** | Los Tyr — sin territorio propio, presencia en todas partes |
+
+### El brazo exterior
+
+El brazo exterior es donde los humanos se están expandiendo. No es territorio vacío:
+
+- Hay civilizaciones más débiles que Los Fines — absorbidas o conquistadas fácilmente
+- Hay civilizaciones equivalentes — conflictos de igual a igual, guerras largas
+- Hay civilizaciones más antiguas y fuertes — **Los Pyrron**, que han dado a Los Fines su primera lección real de humildad
 
 ---
 
