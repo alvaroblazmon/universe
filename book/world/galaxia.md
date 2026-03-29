@@ -16,7 +16,7 @@ El Velo no es uniforme. Hay civilizaciones de distintas eras coexistiendo:
 |------|-------------|-----------------|
 | **Civilizaciones extintas** | Dejaron ruinas y tecnología que nadie comprende del todo. Nadie sabe por qué desaparecieron. | Mesopotamia, Egipto antiguo |
 | **Civilizaciones antiguas** | Miles de años en el espacio. Han visto imperios caer. Algunas fragmentadas, otras estables. | Grecia, Persia |
-| **Civilizaciones jóvenes** | Pocos siglos en el espacio. Energía bruta, ambición sin límites, identidad aún en construcción. | Roma temprana |
+| **Civilizaciones jóvenes** | Pocos siglos en el espacio. Energía bruta, ambición sin límites, identidad aún en construcción. | Roma temprana / Cartago |
 
 ---
 
