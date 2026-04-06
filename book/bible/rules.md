@@ -6,17 +6,28 @@
 
 ## Viaje espacial
 
-*(Por desarrollar)*
+### Puntos de salto
 
-### Velocidad y distancias
-- ¿Existe viaje superlumínico? ¿Cómo funciona?
-- ¿Cuánto tarda viajar entre sistemas estelares?
-- ¿Qué limita o encarece el viaje?
+El viaje superlumínico existe pero no es libre — depende de **puntos de salto**: anomalías gravitacionales naturales dispersas por el Velo que permiten atravesar distancias interestelares en tiempo reducido.
+
+- Son fenómenos naturales, no tecnología
+- Se descubren, se cartografían y se disputan militarmente
+- Quien controla un punto de salto controla una ruta — y por tanto el comercio y la guerra en esa zona
+- En el brazo exterior son escasos, estratégicos y disputados — el número exacto se define cuando la narrativa lo necesite
+
+### El misterio de las civilizaciones extintas
+
+Las civilizaciones extintas cartografiaron los puntos de salto con una precisión imposible para su época. Algunas rutas parecen demasiado convenientes para ser casualidad. ¿Los descubrieron con facilidad? ¿Pudieron crearlos?
+
+Es un misterio. El Dominio guarda esa información con especial celo.
 
 ### Implicaciones narrativas
-- El tiempo de viaje afecta a cómo se comunican y coordinan los ejércitos
-- Las distancias pueden ser aliadas de la resistencia
-- ¿Puede un individuo viajar libremente o es un privilegio?
+
+- Los ejércitos no pueden moverse libremente — dependen de las rutas
+- Controlar un punto de salto es controlar un territorio entero
+- Los Sofari frenaron al Dominio en parte controlando los puntos clave de acceso al brazo exterior
+- Los Tyr conocen rutas y puntos secundarios que otros no tienen cartografiados
+- Un individuo sin recursos difícilmente viaja entre sistemas — el viaje es caro y controlado
 
 ---
 
