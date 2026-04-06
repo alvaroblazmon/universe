@@ -41,17 +41,33 @@ Quien controla los puntos de salto controla las rutas. Quien controla las rutas 
 
 ---
 
+### Por qué los puntos de salto no resuelven el problema
+
+La pregunta obvia es: si un punto de salto conecta dos sistemas, ¿no basta con apuntar un láser a través de él?
+
+No. Los puntos de salto no son portales abiertos. Son anomalías gravitacionales que permiten el tránsito FTL de naves, pero ese tránsito requiere masa, navegación activa y la firma energética específica de una nave. Las señales electromagnéticas — luz, radio, láser — no "activan" el salto. Se comportan como en cualquier otro punto del espacio: viajan en línea recta a velocidad de la luz y no van a ningún otro sistema.
+
+La información solo cruza un punto de salto si va a bordo de una nave.
+
+---
+
 ### Los tres niveles de comunicación
 
 #### Nivel 1 — Comunicaciones locales (dentro de un sistema)
 
-Señales electromagnéticas convencionales: radio, láser, ondas de diversa frecuencia. La velocidad de la luz dentro de un sistema estelar es suficientemente rápida para comunicación práctica en la mayoría de contextos. Todos la usan. No hay ventaja tecnológica aquí — es infraestructura básica.
+Señales electromagnéticas convencionales: radio, láser, ondas de diversa frecuencia. Viajan a velocidad de la luz dentro del sistema — horas o días según la distancia al punto de salto o a otro objeto del sistema. Todos las usan. No hay ventaja tecnológica aquí — es infraestructura básica.
 
 #### Nivel 2 — Correo interestelar convencional
 
-Cualquier nave que pase por un punto de salto puede llevar mensajes. Los datos se almacenan físicamente a bordo y se entregan en el sistema de destino. El coste es el tiempo: semanas o meses según la distancia y la disponibilidad de rutas.
+Para enviar información a otro sistema hay tres tramos:
 
-Este sistema es lento, impredecible y difícil de monopolizar. Es el "correo ordinario" de la galaxia — accesible pero sin garantías de plazo.
+1. **Planeta → punto de salto**: señal electromagnética a velocidad de la luz. Horas o días dentro del sistema propio.
+2. **Esperar una nave** con destino al sistema correcto, que lleve los datos almacenados físicamente a bordo. Aquí está **la latencia real** — días o semanas dependiendo del tráfico en esa ruta.
+3. **Punto de salto → planeta destino**: otro tramo de señal electromagnética dentro del sistema de llegada. Más horas o días.
+
+El salto en sí es rápido. El cuello de botella es siempre el tiempo de espera hasta que haya una nave disponible con el destino correcto. Es el mismo problema que tiene cualquier sistema postal: llegar al buzón es fácil; esperar al cartero, no.
+
+Este sistema es accesible para cualquiera con una nave pero impredecible en plazos.
 
 #### Nivel 3 — La Red de Relevos
 
