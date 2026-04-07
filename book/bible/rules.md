@@ -114,10 +114,84 @@ En un entorno donde verificar una noticia tarda meses, la desinformación es dev
 
 ## Tecnología militar
 
-*(Por desarrollar)*
-- ¿Qué ventaja tecnológica tiene la Coalición sobre los mundos individuales?
-- ¿Existen armas de destrucción masiva?
-- ¿Cómo es el combate terrestre vs. espacial?
+### Los puntos de salto como doctrina militar
+
+La tecnología militar del Velo no puede entenderse sin los puntos de salto. Toda la doctrina bélica parte de una premisa: **los ejércitos no se mueven libremente**. Las flotas no pueden aparecer de la nada frente a un planeta — tienen que llegar a través de rutas conocidas y controladas.
+
+Esto tiene consecuencias decisivas:
+
+- La guerra es predecible en sus vectores de ataque: se ataca por donde hay un punto de salto
+- Defender un sistema equivale a defender su acceso — el planeta en sí es secundario
+- Las grandes batallas ocurren cerca de los puntos de salto, no en las atmósferas planetarias
+
+### Combate espacial
+
+El combate espacial no se parece al terrestre. Las distancias dentro de un sistema son enormes. Dos flotas que se aproximan se detectan con mucha antelación — hay tiempo para maniobrar, negociar, o huir. La sorpresa táctica no viene de la posición sino del momento, la doctrina y la concentración de fuerzas.
+
+**Tipos de armamento:**
+
+| Tipo | Descripción | Uso |
+|------|-------------|-----|
+| **Proyectiles cinéticos** | Objetos acelerados a velocidades espaciales — energía cinética brutal incluso con masa pequeña | Fuego sostenido, saturación de defensas |
+| **Armas de energía** | Láseres de alta potencia, plasma concentrado | Efectivos a distancias medias; requieren naves grandes |
+| **Torpedos de guiado** | Misiles con navegación autónoma | Objetivos de alto valor; caros |
+| **Guerra electrónica** | Interferencia de sensores, engaño de guiado, bloqueo de comunicaciones locales | Tácticamente decisiva |
+
+Ninguna nave tiene blindaje que resista un ataque sostenido. La supervivencia depende de no recibir impactos: maniobra, contramedidas, velocidad relativa. Una nave alcanzada repetidamente es una nave perdida. El combate espacial se parece más a la esgrima que a la artillería de trincheras.
+
+### Combate terrestre
+
+El combate terrestre es secundario a nivel estratégico. Tomar un planeta desde el espacio no requiere invadir su superficie — basta con controlar el acceso al sistema, bloquear el abastecimiento y esperar. Sin embargo, las fuerzas terrestres son necesarias para ocupar mundos conquistados, asediar instalaciones protegidas y operar en superficies donde las naves no pueden maniobrar.
+
+**Armamento terrestre:** armas de fuego convencionales en todos los calibres, vehículos blindados de propulsión antigravitacional, trajes de combate que amplifican resistencia y potencia de fuego del soldado sin hacerlo invulnerable. Los cazas — naves pequeñas de doble uso — operan tanto en espacio próximo como en apoyo terrestre desde la atmósfera.
+
+### Armas de destrucción masiva
+
+Existen. No se usan habitualmente.
+
+La razón no es moral — es pragmática. **Destruir un planeta es destruir su valor.** Las guerras en el Velo se libran por recursos, rutas y posiciones estratégicas. Una civilización que destruye lo que conquista pronto se queda sin nada por lo que luchar.
+
+El Dominio tiene capacidad para bombardeos orbitales de saturación — destrucción de ciudades enteras desde el espacio. Lo ha usado como demostración de fuerza o represalia extrema, no como táctica habitual.
+
+Las armas de extinción planetaria existen en teoría. Ninguna civilización actual las ha usado en memoria histórica. El Dominio probablemente las tiene. Probablemente no las usará: el coste reputacional y la inutilidad del resultado hacen que la amenaza sea más valiosa que la ejecución.
+
+### La ventaja del Dominio
+
+El Dominio no domina por tener la mejor tecnología individual. Su ventaja es **sistémica**:
+
+1. **Escala logística** — puede sostener campañas en múltiples frentes durante décadas. Ninguna civilización del brazo exterior tiene esa profundidad.
+2. **Estandarización** — sus naves, armamento y protocolos son compatibles entre sí en cualquier punto de la galaxia. El abastecimiento a escala masiva es viable porque los componentes son intercambiables.
+3. **Doctrina consolidada** — siglos de guerras han depurado su forma de combatir. No improvisa.
+4. **Artefactos de civilizaciones extintas** — en cantidades limitadas, posee tecnología recuperada de ruinas que no comprende del todo pero sabe usar. Reservada para momentos decisivos.
+
+**Lo que el Dominio no tiene:**
+- Velocidad táctica a distancias galácticas — los problemas de comunicación afectan a todos por igual
+- Presencia útil en el brazo exterior sin una cadena logística enormemente costosa
+- Solución para guerrillas locales — puede tomar un planeta, pero ocuparlo es otra guerra
+
+### Disparidad tecnológica
+
+Las civilizaciones pequeñas del brazo exterior no pueden competir con el Dominio en batalla de flotas convencional. Lo saben. Sus estrategias son distintas:
+
+- Negar el acceso a los puntos de salto locales mediante minas y defensas fijas
+- Guerra asimétrica: naves rápidas, ataques de golpe y huida, evitar el combate de línea
+- Alianzas con civilizaciones más fuertes — Los Pyrron han actuado como disuasorio efectivo contra la expansión del Dominio hacia el brazo exterior
+
+Los Fines son un caso especial: jóvenes, agresivos, con tecnología competente pero sin profundidad logística. Su ventaja es la motivación individual y la capacidad de improvisar. Tienen la energía bruta de quien todavía no sabe que puede perder.
+
+### Implicaciones narrativas
+
+**Una batalla en un punto de salto no tiene sorpresa posicional**
+Todos saben por dónde viene el ataque. La sorpresa viene de cuándo, con cuántos, y con qué doctrina concreta. Las batallas en los puntos de salto son encuentros de voluntades tanto como de armamento.
+
+**El bloqueo como arma total**
+La forma más devastadora de atacar un sistema no es bombardearlo — es aislarlo. Sin suministros, sin información, sin refuerzos. La rendición llega sola. Un bloqueo perfecto no necesita disparar ni una vez.
+
+**Un comandante bueno vale por tres flotas**
+La autonomía táctica impuesta por las demoras de comunicación convierte a los comandantes de campo en actores políticos y militares de primer nivel. Un comandante brillante — o uno que se excede en sus órdenes — puede cambiar el resultado de una campaña entera sin que la capital se entere hasta meses después.
+
+**Las guerras no terminan cuando se firma la paz**
+En un universo donde la noticia de la paz tarda meses en llegar, los soldados siguen muriendo en conflictos ya resueltos en la capital. Y al revés: batallas que ocurren durante una negociación siguen cambiando los términos sobre el papel.
 
 ---
 
