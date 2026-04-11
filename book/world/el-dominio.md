@@ -40,17 +40,26 @@ El Dominio está cómodo con lo que controla. No le falta ambición — le falta
 
 ## Estructura interna
 
+El Dominio está compuesto por al menos tres razas con roles diferenciados:
+
+| Raza | Rol | Rasgos |
+|------|-----|--------|
+| **Los Ven** | Raza rectora — administración, política, estrategia | Longevos (~900 años), cerebros desproporcionados, físicamente sedentarios |
+| **Los Keth** | Casta militar — fuerza de combate | Robustos, resistentes, ciclos de sueño mínimos. Absorbidos hace milenios |
+| **Los Nairu** | Mediadores y cara visible exterior | Adaptación atmosférica amplia, políglotas naturales, los más "visibles" fuera del Dominio |
+
+El nombre formal del Dominio existe en lengua Ven — nadie fuera lo usa.
+
 *(Por desarrollar)*
 
-- ¿Qué razas forman el Dominio?
-- ¿Qué raza lidera realmente?
-- ¿Hay facciones internas con visiones distintas?
-- ¿Existe una facción más expansionista que podría cambiar la situación?
+- ¿Hay facciones internas con visiones expansionistas dentro de los Ven?
+- ¿Los Keth tienen aspiraciones políticas propias? ¿Hay tensión latente con los Ven?
+- ¿Qué desencadenaría que volvieran a mirar hacia el brazo exterior?
 
 ---
 
 ## Notas pendientes
 
-- [ ] Nombre oficial del Dominio (el que usan ellos mismos)
-- [ ] Razas que lo componen (al menos 3-4 con roles diferenciados)
+- [ ] Nombre oficial del Dominio en lengua Ven
+- [ ] ¿Hay una cuarta raza menor dentro del Dominio?
 - [ ] ¿Qué desencadenaría que volvieran a mirar hacia el brazo exterior?
