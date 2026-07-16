@@ -39,9 +39,17 @@ Símil histórico: **Épiro de Pirro** — civilización en los márgenes del mu
 
 ---
 
+## Canon establecido (Historia 01 — El Correo de Vespera)
+
+- **Doctrina de bloqueos**: los Pyrron ensayaron una doctrina de estrangulamiento de puntos de salto menores humanos ("administración" de sistemas sin destruirlos). El ensayo principal fue el bloqueo de Vespera (~7 meses); fracasó en la batalla del Paso y la doctrina quedó en retroceso.
+- **Su guerra de información es sofisticada**: rumores a medida, esperanza falsa, ofertas divisivas. La resistencia humana en Vespera generó como respuesta la doctrina de verificación de los Fines.
+- **Tharos** — comandante veterano (~300 años), invicto en encuentros directos durante un siglo. Es la primera voz pyrron que ha formulado en voz alta la conclusión estratégica: «ganaremos batalla a batalla durante cien años y perderemos la guerra entera». Lidera una facción discreta (los "canales") partidaria de negociar el acomodo con los humanos antes de la derrota demográfica. Sobrevivió a la batalla del Paso y conserva su mando.
+- Retiran siempre a sus muertos y heridos; no dejan ni cuerpos ni datos. Sus tripulaciones no se rinden.
+
+---
+
 ## Notas pendientes
 
 - [ ] ¿Cómo es su cultura y su estructura política?
 - [ ] ¿Qué tecnología tienen que los hace militarmente superiores a Los Fines?
-- [ ] ¿Hay Pyrron que hayan tenido contacto directo con el protagonista?
-- [ ] ¿La guerra con Los Fines sigue activa o hay una tregua tensa?
+- [ ] ¿Cómo evoluciona la facción de los "canales" de Tharos? ¿Llega la tregua de puertas?

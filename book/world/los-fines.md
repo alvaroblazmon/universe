@@ -59,9 +59,18 @@ Los Fines se expanden por el brazo exterior del Velo — la zona que el Dominio 
 
 ---
 
+## Canon establecido (Historia 01 — El Correo de Vespera)
+
+- **Aventina** — mundo de origen humano principal, el más importante políticamente. Cielos naranjas con tres anillos de polvo. Sede de las grandes familias.
+- **Grandes familias con nombre**: **Casa Corvo** (disuelta por Casa Vetra en una purga por un pacto de rutas; sus menores fueron desterrados a colonias de frontera como "clemencia") y **Casa Vetra** (halcón de plata sobre campo negro; potencia en ascenso, pragmática, cumple lo que firma).
+- **Vespera** — colonia de frontera en el brazo exterior (~20.000 habitantes, tercera generación). Mundo de cielos violetas, gravedad un quinto sobre estándar. Un solo punto de salto cartografiado (**el Paso**) y uno secreto de los Tyr (**la Aguja**). Tras el bloqueo pyrron y la batalla del Paso, es **puerto libre asociado** de la coalición de familias. Alberga ruinas de las civilizaciones extintas en su meseta austral (concesión de excavación Tyr encubierta como explotación geotérmica).
+- **La coalición de familias** — alianza militar cambiante de grandes casas que opera flotas conjuntas en el frente pyrron. No es un gobierno: cada casa interpreta el mandato según su cartera.
+- Existe una **doctrina de guerra de información** humana nacida en Vespera (verificación con sellos, uso de infraestructura civil de balizas para el engaño de sensores), compartida con la coalición.
+
+---
+
 ## Notas pendientes
 
-- [ ] Nombre del mundo de origen humano principal (el más importante políticamente)
 - [ ] ¿Cuántos mundos humanos hay consolidados vs. colonias de frontera?
-- [ ] ¿Las grandes familias tienen nombres? ¿Cuál es la familia del protagonista?
 - [ ] ¿Hay alguna facción humana que haya intentado crear un gobierno unificado?
+- [ ] Otras grandes familias de Aventina además de Corvo y Vetra

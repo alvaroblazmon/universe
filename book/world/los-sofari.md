@@ -24,7 +24,7 @@ Los Sofari no hablan con una sola voz. Hay al menos tres posturas internas:
 
 | Facción | Postura | Notas |
 |---------|---------|-------|
-| *(por nombrar)* | Ven a Los Fines como aliados naturales — la nueva sangre que ellos ya no tienen | |
+| **La corriente del Alba** | Ven a Los Fines como aliados naturales — la nueva sangre que ellos ya no tienen | Canon desde Historia 01. Mantiene observadores de larga duración entre los humanos (p. ej. Anassa, 61 años en Vespera). Su tesis: «la sangre nueva no se vigila; se enseña, porque va a heredar de todos modos» |
 | *(por nombrar)* | Ven a Los Fines como una amenaza — demasiado ambiciosos, demasiado impredecibles | |
 | *(por nombrar)* | Aislacionistas — no quieren saber nada de nadie | |
 

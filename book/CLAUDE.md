@@ -51,9 +51,9 @@ book/
 
 - [x] Worldbuilding base completado (`book/world/`)
 - [ ] Reglas del universo (`rules.md`)
-- [ ] Primera historia: personajes
-- [ ] Primera historia: estructura narrativa
-- [ ] Primera historia: capítulos
+- [x] Primera historia: personajes (`stories/historia-01/characters.md`)
+- [x] Primera historia: estructura narrativa (`stories/historia-01/structure.md`)
+- [x] Primera historia: capítulos (12 capítulos — *El Correo de Vespera*)
 
 ---
 

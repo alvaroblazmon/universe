@@ -58,6 +58,15 @@ Ese desprecio es su mayor ventaja. Nadie vigila lo que hacen.
 
 ---
 
+## Canon establecido (Historia 01 — El Correo de Vespera)
+
+- Los Tyr **catalogan y guardan en secreto puntos de salto "no rentables"** (p. ej. **la Aguja**, en el sistema de Vespera) como activos estratégicos para "días de lluvia". Su cartografía del brazo exterior rivaliza con la pyrron: «ellos lo conocen mejor que nadie de los que conquistan; nosotros, mejor que nadie de los que cobran».
+- Su interés estructural: que cerrar puertas pequeñas **nunca salga rentable** — la Red entera se apoya en puertas menores que nadie considera dignas de confiscar. Por eso ayudaron a romper el bloqueo pyrron de Vespera.
+- **Excavan ruinas de las civilizaciones extintas** mediante concesiones encubiertas (en Vespera, como "explotación geotérmica"). No se sabe qué buscan; ni sus propios factores lo saben.
+- Figura tipo: **el factor** — agente local permanente (p. ej. Magon en Vespera), que comercia tanto con mercancía como con interés compartido. Lleva doble contabilidad: la oficial y la que viaja a la Red.
+
+---
+
 ## Notas pendientes
 
 - [ ] ¿Cuál es su mundo o base de operaciones principal?

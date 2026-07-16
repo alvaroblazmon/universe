@@ -67,14 +67,16 @@ book/
 
 - [x] Worldbuilding base completado (`book/world/`)
 - [ ] Reglas del universo (`rules.md`)
-- [ ] Primera historia: personajes
-- [ ] Primera historia: estructura narrativa
-- [ ] Primera historia: escritura de capítulos
+- [x] Primera historia: personajes (`stories/historia-01/characters.md`)
+- [x] Primera historia: estructura narrativa (`stories/historia-01/structure.md`)
+- [x] Primera historia: escritura de capítulos (12 capítulos en `stories/historia-01/chapters/`)
 
 ---
 
-## Primera historia
+## Primera historia — *El Correo de Vespera*
 
 Un civil ordinario, desterrado desde pequeño junto a su primo en una colonia de frontera de Los Fines. Destacan en escaramuzas locales. Su historia personal se convierte en el hilo que conecta los grandes eventos del brazo exterior.
 
 Situada en los primeros siglos de expansión humana — cuando Los Fines son jóvenes y el Velo empieza a notar su presencia.
+
+**Estado**: escrita — 12 capítulos en `stories/historia-01/`. Protagonista: Livio Corvo, técnico de balizas de la colonia de Vespera. La historia termina con la primera entrada de «los Fines» en el registro del Dominio.
